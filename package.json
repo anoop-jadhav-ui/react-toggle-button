@@ -11,10 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/anoop-jadhav-ui/react-toggle-button.git"
   },
-  "keywords": [
-    "react",
-    "react-toggle-button"
-  ],
+  "keywords": ["react", "react-toggle-button"],
   "author": "Creative Dev",
   "license": "ISC",
   "bugs": {
@@ -30,7 +27,5 @@
   "peerDependencies": {
     "react": "^18.2.0"
   },
-  "files": [
-    "/dist"
-  ]
+  "files": ["/dist"]
 }

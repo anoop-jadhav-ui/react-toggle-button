@@ -1,2 +1,2 @@
-import ToggleButton from "./ToggleButton/ToggleButton";
+import ToggleButton from './ToggleButton/ToggleButton';
 export default ToggleButton;
